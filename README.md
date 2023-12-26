@@ -6,6 +6,11 @@
 ![Ekran Görüntüsü (369)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/d2178cdf-e6ac-40f9-95e3-fdd108720421)
 ![Ekran Görüntüsü (370)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/17af360e-1e61-4edf-8387-8a8abda6e04c)
 
+## Nike-Site
+The project appears to be a simple and visually appealing layout designed to showcase and promote the Nike Dunk Low Panda product. The circles and lines in the design add a modern and dynamic aesthetic. Preconnect links are set up for Google Fonts. The right column of the product features an image in a circle and uses decorative circle elements.
+
+![Ekran Görüntüsü (385)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/33e07a41-7b57-4d71-8d44-7b21450dcaa5)
+
 ## Coffee-Bean
 This project represents the website of a coffee shop called "Coffee Bean". It includes a header, about, portfolio, discover and contact sections. At the bottom there is a QR Code for the mobile version. ScrollReveal and Font Awesome libraries were used. When you click on the articles on the top left, it takes you to the relevant places on the page.
 
