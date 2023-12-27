@@ -25,4 +25,5 @@ This project includes the basic structure of a web page representing a fashion d
 
 ![Ekran Görüntüsü (386)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/6e58268a-cd2a-4ea4-ba7e-9455b9fe4a39)
 ![Ekran Görüntüsü (387)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/e091807a-1aac-4d39-ba34-713afed9548a)
+![Ekran Görüntüsü (388)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/7fd59ecd-67d1-42e3-bbb8-932063f3b4e4)
 ![Ekran Görüntüsü (389)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/0a9d6e13-8866-481e-ab81-6c7b35200a2b)
