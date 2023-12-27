@@ -19,3 +19,10 @@ This project represents the website of a coffee shop called "Coffee Bean". It in
 ![Ekran Görüntüsü (376)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/811b36a0-d2ed-4b6b-90b6-d1757955e096)
 ![Ekran Görüntüsü (378)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/14e3716a-5c48-45be-8d71-2ce9aca6a72d)
 ![Ekran Görüntüsü (380)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/701b3b34-02c5-4bc8-99b4-af60a6418b02)
+
+## Fashion-Design
+This project includes the basic structure of a web page representing a fashion design photography project. "Open Sans" and "Roboto Condensed" fonts were used via Google Fonts. FontAwesome library was used for social media icons.It includes two information sections, a photo gallery and a subsection consisting of two boxes under the headings "About Us" and "Contact Us".
+
+![Ekran Görüntüsü (386)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/6e58268a-cd2a-4ea4-ba7e-9455b9fe4a39)
+![Ekran Görüntüsü (387)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/e091807a-1aac-4d39-ba34-713afed9548a)
+![Ekran Görüntüsü (389)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/0a9d6e13-8866-481e-ab81-6c7b35200a2b)
