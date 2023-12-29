@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Login Page</title>
+    <link rel="web icon" type="png" href="icon.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="main"> <!--ana kapsayıcı-->
+        <div class="form-box"> <!--ortadaki alan-->
+            <div class="button-box">
+                <div id="btn"></div> <!--butondaki arkaplan için-->
+                <button type="button" class="toggle-btn" onclick="login();">Log In</button>
+                <button type="button" class="toggle-btn" onclick="register();">Register</button>
+            </div>
+            <div class="social-icons">
+                <lottie-player src="https://lottie.host/d2ee0d2c-bcb7-4637-8468-d45530e92acf/HgusQpnjo1.json"
+                    background="transparent" speed="1" direction="1" mode="normal" loop autoplay></lottie-player>
+                <lottie-player src="https://lottie.host/afd06264-f154-4858-90af-c528efb53a19/V1jOKjTOLZ.json"
+                    background="transparent" speed="1" direction="1" mode="normal" loop autoplay></lottie-player>
+                <lottie-player src="https://lottie.host/53c832bc-509f-499b-830d-d15fdfb27b5e/72oKICXisP.json"
+                    background="transparent" speed="1" direction="1" mode="normal" loop autoplay></lottie-player>
+                <lottie-player src="https://lottie.host/b5b89d73-f7d4-4f71-a2b9-423416390590/R3lf6uLBRD.json"
+                    background="transparent" speed="1" direction="1" mode="normal" loop autoplay></lottie-player>
+                <lottie-player src="https://lottie.host/8e3e5756-6325-407f-83c5-f1490ffe4a97/NEObnKVC4M.json"
+                    background="transparent" speed="1" direction="1" mode="normal" loop autoplay></lottie-player>
+            </div>
+            <form id="Login" class="input-group">
+                <input type="text" class="input-field" placeholder="Enter Username" required>
+                <input type="password" class="input-field" placeholder="Enter Password" required>
+                <a href="#">Lost Your Password</a>
+                <button type="submit" class="submit-btn">Login</button>
+            </form>
+            <form id="Register" class="input-group">
+                <input type="text" class="input-field" placeholder="Enter Username" required>
+                <input type="password" class="input-field" placeholder="Enter Password" required>
+                <input type="email" class="input-field" placeholder="Enter E-mail" required>
+                <a href="#" style="text-align: center;">By registering, you agree to the Terms, Data Policy and Cookies
+                    Policy.</a>
+                <button type="submit" class="submit-btn">Register</button>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        var x = document.getElementById("Login");
+        var z = document.getElementById("Register");
+        var y = document.getElementById("btn");
+
+        function register() {
+            x.style.left = "-400px";
+            z.style.left = "50px";
+            y.style.left = "110px";
+        }
+
+        function login() {
+            x.style.left = "50px";
+            z.style.left = "450px";
+            y.style.left = "0px";
+        }
+    </script>
+
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+</body>
+
+</html>
