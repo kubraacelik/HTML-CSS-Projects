@@ -27,3 +27,10 @@ This project includes the basic structure of a web page representing a fashion d
 ![Ekran Görüntüsü (387)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/e091807a-1aac-4d39-ba34-713afed9548a)
 ![Ekran Görüntüsü (388)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/7fd59ecd-67d1-42e3-bbb8-932063f3b4e4)
 ![Ekran Görüntüsü (389)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/0a9d6e13-8866-481e-ab81-6c7b35200a2b)
+
+## Responsive-Login-Page
+ This project includes a responsive login page. The page includes two different forms where users can login or register. It also includes two buttons where the user can choose whether to login or register.  When the user clicks on the login or registration buttons, it contains functions to toggle between the form fields. It is designed to provide a user-friendly login experience and also provides a visual appeal with social media icons.  
+
+![Ekran Görüntüsü (394)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/8ba62827-7a31-4d00-aea0-c09d0f036869)
+![Ekran Görüntüsü (395)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/11673c20-e2e6-46a6-b8a1-b4d00848dc57)
+
