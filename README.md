@@ -34,3 +34,11 @@ This project includes the basic structure of a web page representing a fashion d
 ![Ekran Görüntüsü (394)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/8ba62827-7a31-4d00-aea0-c09d0f036869)
 ![Ekran Görüntüsü (395)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/11673c20-e2e6-46a6-b8a1-b4d00848dc57)
 
+## Startbootstrap-Freelancer
+This project showcases a freelancer's portfolio in a clean and responsive layout, showcasing their work as well as providing the ability to communicate with visitors. The website includes a navigation bar with links to Portfolio, About and Contact sections. Each portfolio item has a cover with a "+" icon for interaction. One column contains address information. The other column contains social media buttons (Facebook, Twitter, LinkedIn, Dribbble). The third column contains information about Freelancer and the MIT license. uses Font Awesome for the images. It uses Lato and Open Sans fonts from Google Fonts.
+
+![Ekran Görüntüsü (405)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/bbcc61fd-ee11-4f78-a6d7-be96eddb6b79)
+![Ekran Görüntüsü (406)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/dc75338d-07a6-4b77-afe6-534305dfef56)
+![Ekran Görüntüsü (407)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/f1dba79d-48b1-4106-8717-dc51741a436f)
+![Ekran Görüntüsü (408)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/2dcdba7d-a573-43c3-afee-0f947c2c03e1)
+![Ekran Görüntüsü (409)](https://github.com/kubraacelik/HTML-CSS-Projects/assets/101054783/49c30e6d-4b67-4c8f-af8b-92ede28bb14a)
